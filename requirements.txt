@@ -1,0 +1,8 @@
+numpy==2.0.2
+opencv-python==4.10.0.84
+pyobjc-core==10.3.2
+pyobjc-framework-Cocoa==10.3.2
+pyperclip==1.9.0
+quickmachotkey==2023.11.17
+setuptools==70.3.0
+validators==0.34.0
