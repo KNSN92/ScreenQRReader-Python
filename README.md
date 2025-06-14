@@ -1,5 +1,5 @@
 # ScreenQRReader
-<p align="center"><img alt="icon" src="https://github.com/KNSN92/ScreenQRReader/blob/main/readme_icon.png?raw=true" width="25%" /></p>
+<p align="center"><img alt="icon" src="https://github.com/KNSN92/ScreenQRReader-Python/blob/main/readme_icon.png?raw=true" width="25%" /></p>
 <br>
 画面上のQRコードを読み取ることが出来るmac用アプリです。
 <br>
